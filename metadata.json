@@ -1,0 +1,12 @@
+{
+  "name": "Kisan Saathi",
+  "description": "Kisan Saathi connects Indian farmers with trusted buyers, fair prices and better opportunities for their crops.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
